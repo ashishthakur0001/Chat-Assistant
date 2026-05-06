@@ -1,0 +1,6 @@
+git clone https://github.com/your-username/Chat-Assistant.git
+cd Chat-Assistant
+#create virtual environment
+python -m venv venv
+#windows
+venv\Scripts\activate
