@@ -1,0 +1,10 @@
+Chat-Assistant/
+│── app.py
+│── requirements.txt
+│── .env
+│── README.md
+│── data/
+│── chroma_db/
+│── utils/
+│── setup.bat
+│── run.bat
